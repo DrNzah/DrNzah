@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DrNzah/DrNzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Nor Azizah Ali</h1>
+<h3 align="center">A passionate lecturer in Data Analytics and Machine Learning</h3>
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Alteryx, Tableau**
 
-- 🔭 I’m currently working at the Faculty of Computing, UTM
-- 🌱 I’m currently teaching a subject: Business Intelligence, Probability & Statistical Data Analysis, Computational Mathematics, and Discrete Structure. 
-- 👯 I’m looking to collaborate on a Data Science project.
-- 😄 I’m certified in Alteryx Designer (Core), Tableau Desktop Specialist
-- 💬 Ask me about Data Analytics and Machine Learning
-- 📫 How to reach me: nzah@utm.my
+- 📫 How to reach me **nzah@utm.my**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+

@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nor Azizah Ali</h1>
 <h3 align="center">A passionate lecturer in Data Analytics and Machine Learning</h3>
